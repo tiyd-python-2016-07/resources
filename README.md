@@ -8,6 +8,8 @@
 * Notebooks
   * [Lists](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d2-lists.ipynb)
   * [Functions](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d2-functions.ipynb)
+  * [Homework 1 Review](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d2_homework1.ipynb)
+  * [Conditional (Leap Year)](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d2_conditional.ipynb)
 
 ## Week 1, Day 1
 
