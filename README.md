@@ -1,5 +1,14 @@
 # July 2016 Python in Durham
 
+## Week 1, Day 2
+
+* Videos
+  * [Lists, Loops]()
+  * [Functions](https://youtu.be/wGV4hePB_SU)
+* Notebooks
+  * [Lists](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d2-lists.ipynb)
+  * [Functions](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d2-functions.ipynb)
+
 ## Week 1, Day 1
 
 * Videos
