@@ -3,8 +3,8 @@
 ## Week 1, Day 3
 
 * Videos
-  * [Recursion Part 1]()
-  * [Recursion Part 2]()
+  * [Recursion Part 1](https://youtu.be/dPI_esDwRWg)
+  * [Recursion Part 2](https://youtu.be/26qVLTLWy14)
 
 * Notebooks
   * [Recursion](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d3 recursion.ipynb)
