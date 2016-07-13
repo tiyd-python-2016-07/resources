@@ -7,7 +7,7 @@
   * [Recursion Part 2]()
 
 * Notebooks
-  * [Recursion](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d3_recursion.ipynb)
+  * [Recursion](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d3 recursion.ipynb)
   * [Recursion counting](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/rec_count.py)
 
 ## Week 1, Day 2
