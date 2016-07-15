@@ -3,14 +3,17 @@
 ## Week 1, Day 4
 
 * Videos
-  * [tuples](https://youtu.be/gHFguwrepMM)
-  * [dictionary](https://youtu.be/tbbg2hsQAVU)
+  * [Homework Review](https://youtu.be/4-nyq3M8Vos)
+  * [Tuples](https://youtu.be/gHFguwrepMM)
+  * [Dictionary](https://youtu.be/tbbg2hsQAVU)
+  * [File IO](https://youtu.be/zOJs9YnUxCc)
 
 * Notebooks
   * [get_user_counts](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d4_get_user_counts.py)
   * [Tuples & Dictionaries](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d4_tuples_dictionaries.ipynb)
 * Code
   * [phonebook.py](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d4_phonebook.py)
+  * [Phonebook and File IO](https://github.com/tiyd-python-2016-07/resources/blob/master/week1/w1d4-phonebook-file-io.ipynb)
 
 ## Week 1, Day 3
 
