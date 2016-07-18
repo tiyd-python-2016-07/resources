@@ -1,5 +1,16 @@
 # July 2016 Python in Durham
 
+## Week 2, Day 1
+
+* Videos
+  * [Main Method, Modules, Custom Exceptions](https://youtu.be/ynqx3vaPHCI)
+  * [TDD](https://youtu.be/_SqNa7Z4qq8)
+  * [OOP](https://youtu.be/2Nev5uTRi_4)
+* Notebooks
+  * [OOP](https://github.com/tiyd-python-2016-07/resources/blob/master/week2/w2d1-oop.ipynb)
+
+---
+
 ## Week 1, Day 4
 
 * Videos
