@@ -1,5 +1,14 @@
 # July 2016 Python in Durham
 
+## Week 2, Day 3
+
+* Videos
+  * [HW Review](https://youtu.be/unt09rbgWlA)
+  * [OddList with TDD](https://youtu.be/VUlYJDnkPkE)
+  * [List Comprehensions](https://youtu.be/EUEI1Fnz3cw)
+* Notebooks
+  * [List Comprehensions](https://github.com/tiyd-python-2016-07/resources/blob/master/week2/w2d3-list-comprehensions.ipynb)
+
 ## Week 2, Day 1
 
 * Videos
