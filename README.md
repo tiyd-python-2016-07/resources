@@ -1,5 +1,13 @@
 # July 2016 Python in Durham
 
+## Week 2, Day 4
+
+* Videos
+  * [HW Review](https://youtu.be/yvgpQ-UlaxE)
+* Code
+  * [HW Review](https://github.com/tiyd-python-2016-07/resources/blob/master/week2/w2d4_linear_algebra_review.py)
+
+
 ## Week 2, Day 3
 
 * Videos
@@ -8,6 +16,7 @@
   * [List Comprehensions](https://youtu.be/EUEI1Fnz3cw)
 * Notebooks
   * [List Comprehensions](https://github.com/tiyd-python-2016-07/resources/blob/master/week2/w2d3-list-comprehensions.ipynb)
+
 
 ## Week 2, Day 1
 
