@@ -1,5 +1,11 @@
 # July 2016 Python in Durham
 
+## Week 3, Day 1
+
+* Code
+  * [Monty Hall Simulation](https://github.com/tiyd-python-2016-07/resources/blob/master/week3/sim_monty_hall.py)
+
+
 ## Week 2, Day 4
 
 * Videos
