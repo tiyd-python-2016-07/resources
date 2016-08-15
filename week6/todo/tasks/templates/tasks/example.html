@@ -1,0 +1,8 @@
+<form method="get">
+{% csrf_token %}
+<input type="text" name="thingy" value="">
+<input type="text" name="another_thingy" value="">
+<button>Submit</button>
+</form>
+
+<a href="http://localhost:8000/example/?csrfmiddlewaretoken=t2K65M9nZYcQ5HPI9LbIjMsJ1cDPUtyR8jprjxvfC1Rekm9TZ8oAIlHpP46lvCdi&thingy=first&another_thingy=second">link</a>

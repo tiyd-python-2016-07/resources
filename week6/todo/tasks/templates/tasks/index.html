@@ -1,0 +1,34 @@
+<form method="post">
+  {% csrf_token %}
+  <input type="text" name="description" placeholder="description">
+  <select name="status">
+    {% for status, description in statuses %}
+      <option value="{{ status }}">{{ description }}</option>
+    {% endfor %}
+  </select>
+  <button>submit</button>
+</form>
+
+<ol>
+{% for task in tasks %}
+  <li>
+    <form method="post">
+      {% csrf_token %}
+      <input type="hidden" name="id" value="{{ task.id }}">
+      <input type="hidden" name="created" value="{{ task.created | date:'Y-m-d H:m:s' }}">
+      <input type="text" name="description" value="{{ task.description }}">
+      <select name="status" onchange="this.form.submit()">
+        {% for status, description in statuses %}
+          <option value="{{ status }}" {% if status == task.status %}selected="selected"{% endif %}>{{ description }}</option>
+        {% endfor %}
+      </select>
+    </form>
+
+    <form method="post">
+      {% csrf_token %}
+      <input type="hidden" name="id" value="{{ task.id }}">
+      <button name="delete" value="1">Delete</button>
+    </form>
+  </li>
+{% endfor %}
+</ol>
