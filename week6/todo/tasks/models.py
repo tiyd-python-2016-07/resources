@@ -3,26 +3,12 @@ import datetime
 
 
 def get_repr(o):
-    args = ''
-    for key, value in o.__dict__.items():
-        if not key.startswith('_'):
-            if isinstance(value, str):
-                value = '"{}"'.format(value)
-            elif isinstance(value, datetime):
-                value = value
-#                 value =
-# datetime.datetime(2016, 8, 15, 17, 30, 32, 500593, tzinfo=<UTC>)
-# >>> str(t.created)
-# '2016-08-15 17:30:32.500593+00:00'
-# >>> t.created.tzinfo
-# <UTC>
-# >>> t.created.year
-# 2016
-# >>> t.created.month
-
-            args += "{}={}, ".format(key, value)
-    args = args[:-2]
-    return "{}({})".format(o.__class__.__name__, args)
+    args = [
+        "{}={}".format(key, repr(value))
+        for key, value in o.__dict__.items()
+        if not key.startswith('_')
+    ]
+    return "{}({})".format(o.__class__.__name__, ', '.join(args))
 
 models.Model.__repr__ = models.Model.__str__ = get_repr
 
